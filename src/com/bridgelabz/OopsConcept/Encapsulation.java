@@ -1,4 +1,4 @@
-package Object_Oriented_Programings_Concept;
+package com.bridgelabz.OopsConcept;
 
 //A Java class which is a fully encapsulated class.  
 //It has a private data member and getter and setter methods.  

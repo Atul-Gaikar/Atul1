@@ -1,4 +1,4 @@
-package Object_Oriented_Programings_Concept;
+package com.bridgelabz.OopsConcept;
 
 //Java Program to illustrate how to define a class and fields  
 //Defining a Student class.  

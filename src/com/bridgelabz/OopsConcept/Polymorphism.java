@@ -1,4 +1,4 @@
-package Object_Oriented_Programings_Concept;
+package com.bridgelabz.OopsConcept;
 
 class bick {
 	void run() {
